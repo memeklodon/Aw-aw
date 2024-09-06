@@ -1,0 +1,7 @@
+import tkinker as tk
+from tkinker import messagebox
+import random
+import webbrowser
+import urllib.parse
+
+whatsapp_number
